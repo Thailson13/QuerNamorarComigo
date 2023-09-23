@@ -1,4 +1,4 @@
-# QuerNamorarComigo
+# Quer namorar comigo?
 
 ![preview](img/Readme.png)
 
