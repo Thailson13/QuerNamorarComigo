@@ -23,10 +23,13 @@ h1 {
 .container h1 {
   display: flex;
   justify-content: center;
-  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   color: #e6224d;
   border: 1px solid black;
   border-radius: 8px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
 }
 
 
@@ -46,6 +49,7 @@ a {
 
 /* button */
 button {
+  border-radius: 8px !important;
   cursor: pointer;
   position: relative;
   background-color: #e6224d;
@@ -84,11 +88,20 @@ button:hover::before {
 }
 
 
+p{
+  font-size: 24pt;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
 @media (max-width: 576px) {
   h1{
     text-align: center;
   }
   .background{
     background-size: auto;
+  }
+  p{
+    font-size: 18pt;
   }
 }
