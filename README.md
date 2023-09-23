@@ -1,6 +1,6 @@
 # Quer namorar comigo?
 
-![preview](img/readme.png)
+![preview](img/preview.png)
 
 # Não possui responsividade, funciona apenas em PC!!!! / It is not responsive, it only works on PC!!!!
 
