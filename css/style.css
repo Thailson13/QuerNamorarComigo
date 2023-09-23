@@ -11,21 +11,14 @@ h1 {
 }
 
 /* background */
-.background-degrade {
-  background-image: linear-gradient(
-    to left,
-    #ffffff,
-    #fef2f5,
-    #f9e0e9,
-    #f0b9c3,
-    #c98e9a
-  );
-  background-size: contain;
+.background{
+  background-image: url("/img/imagem.png");
+  background-size: cover;
 }
 
 /* container */
 .container {
-  padding: 10vh;
+  padding-top: 30vh;
 }
 .container h1 {
   display: flex;
@@ -46,8 +39,8 @@ h1 {
 }
 
 a {
-  text-decoration: none;
-  color: white;
+  text-decoration: none !important;
+  color: white !important;
 }
 
 /* button */
@@ -87,4 +80,14 @@ button::before {
 
 button:hover::before {
   width: 100%;
+}
+
+
+@media (max-width: 576px) {
+  h1{
+    text-align: center;
+  }
+  .background {
+    background-image: url("/img/imagem2.png");
+  }
 }
