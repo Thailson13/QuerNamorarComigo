@@ -1,6 +1,6 @@
 # QuerNamorarComigo
 
-![preview](img/Readme.png)
+![preview](img/readme.png)
 
 # Não possui responsividade, funciona apenas em PC!!!! / It is not responsive, it only works on PC!!!!
 
