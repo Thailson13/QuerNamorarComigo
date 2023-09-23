@@ -13,3 +13,6 @@ O projeto consiste em uma página web com um botão "sim" e um botão "não". Qu
 Código
 
 O código do projeto é simples e fácil de entender. O HTML é responsável pela estrutura básica da página, o CSS é responsável pelo estilo e o JavaScript é responsável pela lógica do pedido.
+
+
+[Clique aqui para acessar o site do projeto / Click here to access the project website](https://thailson13.github.io/QuerNamorarComigo)
