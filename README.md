@@ -2,6 +2,8 @@
 
 ![preview](img/Readme.png)
 
+# Não possui responsividade, funciona apenas em PC!!!! / It is not responsive, it only works on PC!!!!
+
 Projeto de pedido de namoro em HTML, CSS e JavaScript
 
 Este projeto é um pedido de namoro simples e criativo, utilizando apenas HTML, CSS e JavaScript. O objetivo é que a pessoa amada não possa dizer não ao pedido, pois o botão "não" irá teletransportar para outro local quando ela se aproximar dele.
